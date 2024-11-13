@@ -1,8 +1,8 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 
-# Name : Tharun Sridhar
+**Name : Tharun Sridhar**
 
-# Date: 24-10-2024
+**Date: 24-10-2024**
 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
